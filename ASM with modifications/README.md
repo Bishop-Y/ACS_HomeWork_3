@@ -17,10 +17,6 @@
 *      r11d вместо i (итерируемая переменная)
 *      r12d вместо x
 # function_mod.s
-### Сокращено сравнение index и size:
-      - mov eax, DWORD PTR -8[rbp]
-      - cmp eax, DWORD PTR -28[rbp]
-      + cmp r12d, r13d
 ###     Регистры:
 *      r12d вместо x
 *      r13 вместо res
