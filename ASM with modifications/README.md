@@ -8,7 +8,7 @@
       - mov QWORD PTR -8[rbp], rax 
       - xor eax, eax
 *     В конце:
-      - .L19:
+      - .L12:
       - mov rsi, QWORD PTR -8[rbp]
       - xor rsi, QWORD PTR fs:40
       - je .L13
