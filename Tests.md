@@ -28,17 +28,17 @@
 > * Рандомная генерация в консоли (отработано корректно): <br/> <br/>
 > ![image](https://user-images.githubusercontent.com/66753948/204005856-195727cb-00c6-484a-8fde-ac4de65b7120.png) <br/> <br/> <br/>
 ## На 9 баллов: <br/>
-> Первый тест: генерируемые данные, seed = 1, 20000000 отработок function. <br/>
-> Второй тест: генерируемые данные, seed = 4, 20000000 отработок function. <br/>
-> Третий тест: генерируемые данные, seed = 11, 20000000 отработок function. <br/> 
+> Первый тест: x = 2000000000, 20000000 отработок function. <br/>
+> Второй тест: x = 100000, 20000000 отработок function. <br/>
+> Третий тест: x = 256, 20000000 отработок function. <br/> 
 
 | Тип программы  | Время работы первого теста  | Время работы второго теста  | Время работы третьего теста  | Размер исполняемого файла | Суммарное количество строк | 
 | :---: | :---: | :---: | :---: | :---: | :---: | 
-| [Программа на C](https://github.com/Bishop-Y/ACS_HomeWork_2/tree/main/Program%20on%20C)  | 14101мс  | 7510мс  | 1659мс | 16.9кб  | 104 строки  | 
-| [Программа на ассемблере без модификаций](https://github.com/Bishop-Y/ACS_HomeWork_2/tree/main/ASM%20without%20modifications)  | 19808мс  | 10510мс  | 2212мс  | 16.8кб  | 447 строк  | 
-| [Программа на ассемблере с ручными модификациями](https://github.com/Bishop-Y/ACS_HomeWork_2/tree/main/ASM%20with%20modifications)  | 10165мс  | 5323мс  | 1269мс  | 16.6кб  | 381 строка  |
-| [Программа на ассемблере O1](https://github.com/Bishop-Y/ACS_HomeWork_2/tree/main/ASM_O1)  | 5431мс  | 2980мс  | 632мс  | 16.7кб  | 288 строк  |
-| [Программа на ассемблере O2](https://github.com/Bishop-Y/ACS_HomeWork_2/tree/main/ASM_O2)  | 4058мс  | 2143мс  | 521мс  | 16.7кб  | 307 строк  |
-| [Программа на ассемблере O3](https://github.com/Bishop-Y/ACS_HomeWork_2/tree/main/ASM_O3)  | 3974мс  | 1934мс  | 510мс  | 16.7кб  | 307 строк  |
-| [Программа на ассемблере Ofast](https://github.com/Bishop-Y/ACS_HomeWork_2/tree/main/ASM_Ofast)  | 3983мс  | 2077мс  | 524мс  | 16.7кб  | 307 строк  |
-| [Программа на ассемблере Os](https://github.com/Bishop-Y/ACS_HomeWork_2/tree/main/ASM_Os)  | 10372мс  | 5772мс  | 1258мс  | 16.7кб  | 251 строка  |
+| [Программа на C](https://github.com/Bishop-Y/ACS_HomeWork_3/tree/main/Program%20on%20C)  | 2215мс  | 1137мс  | 460мс | 16.9кб  | 104 строки  | 
+| [Программа на ассемблере без модификаций](https://github.com/Bishop-Y/ACS_HomeWork_3/tree/main/ASM%20without%20modifications)  | 19808мс  | 10510мс  | 2212мс  | 16.8кб  | 447 строк  | 
+| [Программа на ассемблере с ручными модификациями](https://github.com/Bishop-Y/ACS_HomeWork_3/tree/main/ASM%20with%20modifications)  | 10165мс  | 5323мс  | 1269мс  | 16.6кб  | 381 строка  |
+| [Программа на ассемблере O1](https://github.com/Bishop-Y/ACS_HomeWork_3/tree/main/ASM_O1)  | 5431мс  | 2980мс  | 632мс  | 16.7кб  | 288 строк  |
+| [Программа на ассемблере O2](https://github.com/Bishop-Y/ACS_HomeWork_3/tree/main/ASM_O2)  | 4058мс  | 2143мс  | 521мс  | 16.7кб  | 307 строк  |
+| [Программа на ассемблере O3](https://github.com/Bishop-Y/ACS_HomeWork_3/tree/main/ASM_O3)  | 3974мс  | 1934мс  | 510мс  | 16.7кб  | 307 строк  |
+| [Программа на ассемблере Ofast](https://github.com/Bishop-Y/ACS_HomeWork_3/tree/main/ASM_Ofast)  | 3983мс  | 2077мс  | 524мс  | 16.7кб  | 307 строк  |
+| [Программа на ассемблере Os](https://github.com/Bishop-Y/ACS_HomeWork_3/tree/main/ASM_Os)  | 10372мс  | 5772мс  | 1258мс  | 16.7кб  | 251 строка  |
