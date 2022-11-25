@@ -3,27 +3,35 @@
 ## На 4 балла:
 1. Тесты с ручным вводом: <br/>
 > * Без модификаций: <br/> <br/>
-> ![image](https://user-images.githubusercontent.com/66753948/201474307-b954ddc4-b902-48be-ba62-d27cd7fe29a6.png) <br/>
+> ![image](https://user-images.githubusercontent.com/66753948/204000748-79137187-fd71-468e-aa3b-322a0ffd5c51.png) <br/>
 > * С модификациями: <br/> <br/>
-> ![image](https://user-images.githubusercontent.com/66753948/201474344-543dbb7e-50f6-4a2c-afa5-6cc7e2b7e9f7.png) <br/> <br/> <br/>
+> ![image](https://user-images.githubusercontent.com/66753948/204000829-7dcef97e-3698-4ec1-9408-2a48182f7552.png) <br/> <br/> <br/>
 ## На 6 баллов:
 1. Тест с ручным вводом: <br/>
 > * Без модификаций: <br/> <br/>
-> ![image](https://user-images.githubusercontent.com/66753948/201474429-0a4adc29-30c3-4742-bb28-d8f85af83fde.png) <br/> <br/>
+> ![image](https://user-images.githubusercontent.com/66753948/204001241-131464b5-7c74-4807-a909-a64e2f0a7103.png) <br/> <br/>
 > * С модификациями: <br/> <br/>
-> ![image](https://user-images.githubusercontent.com/66753948/201474464-657213c0-3f4c-4a81-8496-def69301e660.png) <br/> <br/> <br/>
+> ![image](https://user-images.githubusercontent.com/66753948/204001307-ccb4dca9-e951-4f0c-bc4a-b14a65158745.png) <br/> <br/> <br/>
 ## Поведение программы не поменялось! Всё так же работает корректно <br/> <br/>
 ## На 7 баллов: <br/>
 > * Файл с входными параметрами: <br/> <br/>
-> ![image](https://user-images.githubusercontent.com/66753948/201475065-2d87dfa0-4030-47a1-9de8-615c4ba82789.png) <br/> <br/>
+> ![image](https://user-images.githubusercontent.com/66753948/204001883-899ee9f1-03c0-405b-8b7f-c950665ab358.png) <br/> <br/>
 > * Командная строка (в ней указываются файл с входными данными и файл для записи результата): <br/> <br/>
-> ![image](https://user-images.githubusercontent.com/66753948/201474948-48c322eb-1851-4db4-a892-107cfe029cc5.png) <br/>
+> ![image](https://user-images.githubusercontent.com/66753948/204003628-d31603d5-1e7b-430b-affb-655501f4f085.png) <br/>
 > * Файл с выходными параметрами (отработано корректно): <br/> <br/>
-> ![image](https://user-images.githubusercontent.com/66753948/201474981-e46b6d1b-37b9-4c81-9207-b674bdaae2bc.png)) <br/> <br/> <br/>
-## На 8-9 баллов: <br/>
+> ![image](https://user-images.githubusercontent.com/66753948/204003691-79d8cd8e-ffd3-439d-8b2b-0cf33cd484b7.png) <br/> <br/> <br/>
+## На 8 баллов: <br/>
+> * Командная строка (в ней указываются рандомный тип входных данных и файл для записи результата): <br/> <br/>
+> ![image](https://user-images.githubusercontent.com/66753948/204005494-7a37fdfc-f4d5-41cc-92f0-e7879fda6187.png) <br/>
+> * Файл с выходными параметрами (отработано корректно): <br/> <br/>
+> ![image](https://user-images.githubusercontent.com/66753948/204005602-727fdfcb-626b-4e37-a85f-2c308699e425.png) <br/>
+> * Рандомная генерация в консоли (отработано корректно): <br/> <br/>
+> ![image](https://user-images.githubusercontent.com/66753948/204005856-195727cb-00c6-484a-8fde-ac4de65b7120.png) <br/> <br/> <br/>
+## На 9 баллов: <br/>
 > Первый тест: генерируемые данные, seed = 1, 20000000 отработок function. <br/>
 > Второй тест: генерируемые данные, seed = 4, 20000000 отработок function. <br/>
 > Третий тест: генерируемые данные, seed = 11, 20000000 отработок function. <br/> 
+
 | Тип программы  | Время работы первого теста  | Время работы второго теста  | Время работы третьего теста  | Размер исполняемого файла | Суммарное количество строк | 
 | :---: | :---: | :---: | :---: | :---: | :---: | 
 | [Программа на C](https://github.com/Bishop-Y/ACS_HomeWork_2/tree/main/Program%20on%20C)  | 14101мс  | 7510мс  | 1659мс | 16.9кб  | 104 строки  | 
