@@ -41,4 +41,4 @@
 | [Программа на ассемблере O2](https://github.com/Bishop-Y/ACS_HomeWork_3/tree/main/ASM_O2)  | 1384мс  | 712мс  | 260мс  | 16.7кб  | 274 строки  |
 | [Программа на ассемблере O3](https://github.com/Bishop-Y/ACS_HomeWork_3/tree/main/ASM_O3)  | 1266мс  | 657мс  | 259мс  | 16.7кб  | 274 строки  |
 | [Программа на ассемблере Ofast](https://github.com/Bishop-Y/ACS_HomeWork_3/tree/main/ASM_Ofast)  | 861мс  | 472мс  | 164мс  | 16.7кб  | 273 строки  |
-| [Программа на ассемблере Os](https://github.com/Bishop-Y/ACS_HomeWork_3/tree/main/ASM_Os)  | 1392мс  | 708мс  | 247мс  | 16.6кб  | 262 строка  |
+| [Программа на ассемблере Os](https://github.com/Bishop-Y/ACS_HomeWork_3/tree/main/ASM_Os)  | 1392мс  | 708мс  | 247мс  | 16.6кб  | 262 строки  |
